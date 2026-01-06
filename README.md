@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **dinajourney/dinajourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello, I’m Dina ✨
+
+Exploring data, tech, and design through hands-on work  
+Turning practice into progress, one step at a time
+
+###  Currently
+- Learning data analysis foundations
+- Building simple frontend projects with HTML & CSS
+- Improving design and UI skills
+- Preparing for professional opportunities
+
+### Skills & Tools
+- Python (learning)
+- HTML & CSS
+- Graphic & UI design basics
+- Git & GitHub
+
+
+
